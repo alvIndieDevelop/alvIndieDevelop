@@ -52,9 +52,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvIndieDevelop&show_icons=true)
 
-![GitHub metrics](https://metrics.lecoq.io/alvIndieDevelop)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alvIndieDevelop)
+
+## Metrics
+
+![GitHub metrics](https://metrics.lecoq.io/alvIndieDevelop)
 
 <!---
 alvIndieDevelop/alvIndieDevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
