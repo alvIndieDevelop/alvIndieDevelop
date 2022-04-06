@@ -46,13 +46,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alvIndieDevelop)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvIndieDevelop)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvIndieDevelop&show_icons=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alvIndieDevelop)
 
 ![GitHub metrics](https://metrics.lecoq.io/alvIndieDevelop)
 
