@@ -46,8 +46,11 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvIndieDevelop)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvIndieDevelop)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvindiedevelop&show_icons=true&locale=en&layout=compact" alt="alvindiedevelop" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvindiedevelop&show_icons=true&locale=en" alt="alvindiedevelop" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvindiedevelop&" alt="alvindiedevelop" /></p>
 
 ![](https://komarev.com/ghpvc/?username=alvIndieDevelop)
 
