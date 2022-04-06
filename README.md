@@ -1,7 +1,8 @@
 <div align="center">
  <h1> Hi, I'm Alvaro Martin Caballero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
- ![Profile views](https://gpvc.arturio.dev/alvIndieDevelop)
 </div>
+
+![Profile views](https://gpvc.arturio.dev/alvIndieDevelop)
 
 - 👋 Hi, I’m @alvIndieDevelop
 - 👀 I’m interested in Game & full-stack development
