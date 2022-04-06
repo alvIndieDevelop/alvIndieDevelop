@@ -1,5 +1,6 @@
 <div align="center">
  <h1> Hi, I'm Alvaro Martin Caballero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ ![Profile views](https://gpvc.arturio.dev/alvIndieDevelop)
 </div>
 
 - 👋 Hi, I’m @alvIndieDevelop
@@ -53,8 +54,6 @@
 ![GitHub metrics](https://metrics.lecoq.io/alvIndieDevelop)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alvIndieDevelop)
-
-![Profile views](https://gpvc.arturio.dev/alvIndieDevelop)
 
 <!---
 alvIndieDevelop/alvIndieDevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
