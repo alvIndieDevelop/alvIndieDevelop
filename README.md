@@ -46,13 +46,19 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvindiedevelop&show_icons=true&locale=en&layout=compact" alt="alvindiedevelop" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alvIndieDevelop)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvindiedevelop&show_icons=true&locale=en" alt="alvindiedevelop" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvIndieDevelop)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvindiedevelop&" alt="alvindiedevelop" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvIndieDevelop&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=alvIndieDevelop)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alvIndieDevelop)
+
+![GitHub metrics](https://metrics.lecoq.io/alvIndieDevelop)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alvIndieDevelop)
+
+![Profile views](https://gpvc.arturio.dev/alvIndieDevelop)
 
 <!---
 alvIndieDevelop/alvIndieDevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
