@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="100"/>
+</div>
+
+
 - 👋 Hi, I’m @alvIndieDevelop
 - 👀 I’m interested in Game $ Web aplication develop
 - 🌱 I’m currently learning Azure DevOps, Typescript, Unreal, Godot, C#, Typescript, NEXT.JS
